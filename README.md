@@ -1,3 +1,3 @@
 
 old zeta 💔
-oq eu estou fazendo mds 🥲
+Em breve estarei pondo os scripts aq🐒
