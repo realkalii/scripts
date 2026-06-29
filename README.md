@@ -1,3 +1,2 @@
 old zeta 💔
-
-em breve isqripitis aki
+miel feio
