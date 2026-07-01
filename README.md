@@ -1,3 +1,1 @@
-
-old zeta 💔
-Em breve estarei pondo os scripts aq🐒
+# 2/3 Scripts
