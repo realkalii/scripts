@@ -1,2 +1,4 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/dd9d42a721be1c8ccff89201dbba21627982b5cb05d7fdbd553d2f573e4d2b80/download"))()
+script_key = "trial"
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/fea2c1ea94abc582e326d663c5449e8b78e4e6571f1868c315908ab8480618a2.lua"))()
 print("by Kali | Miel | Gab • https://discord.gg/2HCnSU483H")
